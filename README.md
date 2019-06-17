@@ -1,2 +1,2 @@
-# ArtificialIntelligence
+# Artificial Intelligence
 Exercises from Artificial Intelligence
