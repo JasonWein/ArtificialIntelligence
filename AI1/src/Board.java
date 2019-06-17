@@ -40,12 +40,14 @@ public final void initializeGui() {
             //} else {
             //    b.setBackground(Color.GRAY);
             //}
+            /*
             if((j == 1 && i == 2))
             	b.setBackground(Color.BLUE);
             else if ((j == 3 && i == 2) || j == 2 && i == 1)
             	b.setBackground(Color.WHITE);
             else
             	b.setBackground((Color.GRAY));
+            	*/
             c1squares[j][i] = b;
         }
     } 
